@@ -1,0 +1,14 @@
+﻿{
+    "name": "gstdb",
+    "description": "csp.name",
+    "logo":"csp.name",
+    "keywords": ["csp.name"],
+    "env": {
+        "UUID": {
+            "description": "Xray UUID,随机生成uuid的网站-> (https://www.uuidgenerator.net/) ",
+            "required": true        
+        }
+    },
+    "repository": "https://github.com/sgdtf/gstdb",
+    "stack": "container"
+}
